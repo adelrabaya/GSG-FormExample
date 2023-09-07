@@ -1,0 +1,46 @@
+.app{
+  margin:0px;
+  width : 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://c1.wallpaperflare.com/preview/946/880/23/road-wet-rain-leaves.jpg");
+
+}
+.loan{
+  width: 600px;
+  height:400px;
+  background-color: rgb(48,43,43);
+  padding: 20px;
+  border-radius: 15px;
+}
+form{
+  
+  
+}
+h2{
+  color: orange;
+  margin: 20px;
+}
+p{
+  color: orange;
+  font-weight: bold;
+  margin: 3px;
+}
+input{
+  width: 99%;
+}
+.msg{
+  position: absolute;
+  background-color: white;
+  box-shadow: 3px 2px 7px blue, -.3em 0 .4em black;
+  margin-left: 5%;
+  width:450px;
+  height:130px;
+  text-align: center;
+}
+.msg h2{
+  color: black;
+  margin-top: 20%;
+}
